@@ -1,0 +1,1 @@
+vhdtdtfi -prj Pong -o C:/Users/Administrator/Projects/FPGA/Pong/VGASyncGen.vhi -module VGASyncGen -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Source/VGASyncGen.vhd 

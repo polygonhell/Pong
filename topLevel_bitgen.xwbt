@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Administrator\Projects\FPGA\Pong\topLevel.ncd
+OUTFILE=C:\Users\Administrator\Projects\FPGA\Pong\topLevel.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\Administrator\Projects\FPGA\Pong
+LICENSE=WebPack
+USER_INFO=211038549_0_0_019
